@@ -1,2 +1,2 @@
 #!/bin/sh
-exit 2
+exit 0
